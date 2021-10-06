@@ -1,4 +1,4 @@
-# traffic Simulation using threading
+# Traffic simulation using threading
 ## Definition of threading
 *Threads* in the scope of computer programming are a small set of instructions designed to be scheduled and executed by the CPU independently, traditional programs perform under one and only thread, meaning that all the procedures are going to be executed sequentially. Nevertheless, thanks to the development of microchips that are capable to process multiple threads, we have the possibility to developed more complex programs that have a faster processing.
 ## Describing the traffic simulation 
@@ -24,4 +24,4 @@ IEnumerator TrafficLights(){
 ```
 Finally we implement the 3 buttons (slow, medium, and fast) and slider that enables the user to control the velocity of the program in any given time of the simultation.
 ## Design
-![Graphic Design of the program](Proyeccion)
+![Graphic Design of the program](Proyeccion.PNG)
