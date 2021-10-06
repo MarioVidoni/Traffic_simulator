@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collider_3
+  - Collider_1
+  - Collider_2
+  - Collider_4
+  - Trigger_1
+  - Trigger_2
+  - Trigger_3
+  - Trigger_4
+  - movedor
+  - parador
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Grass
+    uniqueID: 218076747
+    locked: 0
+  - name: Road
+    uniqueID: 149468987
+    locked: 0
+  - name: Cars
+    uniqueID: 160676197
+    locked: 0
+  - name: Trafic Light
+    uniqueID: 2718052605
+    locked: 0
+  - name: Ligths
+    uniqueID: 3520349615
+    locked: 0
